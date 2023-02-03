@@ -1,0 +1,20 @@
+Algorithm:
+Step 1: Start
+
+Step 2: Read the limit of numbers, n
+
+Step 3: Assign i=1
+
+Step 4: Assign sum=0
+
+Step 5: Repeat steps 6,7&8 until i=n reaches
+
+Step 6: If i%2==0 goto step 7
+
+Step 7: Compute sum=sum+i
+
+Step 8: Compute i=i+1
+
+Step 9: Print sum of even numbers, sum
+
+Step 10: Stop
